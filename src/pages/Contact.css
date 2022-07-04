@@ -1,0 +1,8 @@
+.main {
+    display: flex;
+}
+
+#question_image{
+    width: 300px;
+    height: auto;
+}
